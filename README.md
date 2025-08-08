@@ -34,4 +34,6 @@ The module aims to be a foundation for more complex game logic, achievements, an
     "vm_status": "Executed successfully"
   }
 }
+```
 <img width="1446" height="971" alt="image" src="https://github.com/user-attachments/assets/80b6a2a5-edef-4ca0-b6a5-31625d67849f" />
+
