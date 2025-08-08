@@ -1,0 +1,15 @@
+[package]
+name = "new-project"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule ='0x233322be0d9573ec038cadfa9116e8e3a84b9d488e8f41064aceae682f158ea8'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
